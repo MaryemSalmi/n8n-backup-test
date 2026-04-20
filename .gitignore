@@ -1,2 +1,16 @@
+# system
+.vscode-server/
 .nvm/
-*/
+.DS_Store
+
+# dependencies
+node_modules/
+
+# env
+.env
+
+# logs
+*.log
+
+# backups system
+*.backup
